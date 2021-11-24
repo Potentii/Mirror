@@ -1,21 +1,21 @@
 {
-  "name": "mirror",
-  "displayName": "Mirror",
-  "version": "53.6.0",
-  "unity": "2021.2",
-  "author": {
-    "name": "vis2k",
-    "url": "https://github.com/vis2k"
-  },
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Potentii/Mirror.git"
-  },
-  "keywords": [
-    "mirror",
-    "networking",
-    "multiplayer"
-  ],
-  "description": "Mirror networking wrapped in a UPM package, for the Mirror repo itself, check https://github.com/vis2k/Mirror"
+	"name": "mirror",
+	"displayName": "Mirror",
+	"version": "54.0.0",
+	"unity": "2021.2",
+	"author": {
+		"name": "vis2k",
+		"url": "https://github.com/vis2k"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Potentii/Mirror.git"
+	},
+	"keywords": [
+		"mirror",
+		"networking",
+		"multiplayer"
+	],
+	"description": "Mirror networking wrapped in a UPM package, for the Mirror repo itself check out https://github.com/vis2k/Mirror"
 }

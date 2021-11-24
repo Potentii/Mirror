@@ -1,2 +1,12 @@
 riderModule.iml
 /_ReSharper.Caches/
+
+./Mirror/.git
+./Mirror/.github
+./Mirror/doc
+./Mirror/.editorconfig
+./Mirror/.gitattributes
+./Mirror/.gitignore
+./Mirror/.releaserc.yml
+./Mirror/appveyor.yml
+./Mirror/appveyor.yml.meta
